@@ -1,0 +1,42 @@
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\bin\Debug\Danil.exe.config
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\bin\Debug\Danil.exe
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\bin\Debug\Danil.pdb
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\bin\Debug\System.Data.SQLite.dll
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\bin\Debug\System.Data.SQLite.xml
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.AssemblyReference.cache
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Regist.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Registration1.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.CopyComplete
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.exe
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.pdb
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Главная.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Nalik.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.preparati.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros1.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros2.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros3.resources
+C:\Users\ПК\OneDrive\Desktop\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros4.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\bin\Debug\Danil.exe.config
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\bin\Debug\Danil.exe
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\bin\Debug\Danil.pdb
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\bin\Debug\System.Data.SQLite.dll
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\bin\Debug\System.Data.SQLite.xml
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.AssemblyReference.cache
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Nalik.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.preparati.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Properties.Resources.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Regist.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Registration1.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros1.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros2.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros3.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Zapros4.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.Главная.resources
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.GenerateResource.cache
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.CoreCompileInputs.cache
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.csproj.Up2Date
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.exe
+C:\Users\chaoc\OneDrive\Рабочий стол\ажигин учебка\Danil\Danil\obj\Debug\Danil.pdb
